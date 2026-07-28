@@ -1,0 +1,32 @@
+
+=== 课程阶段 1 ===
+[stage 1] epoch 1: loss=0.713 len1_acc=0.972
+[stage 1] 毕业 @ epoch 1 (acc=0.972)
+
+=== 课程阶段 2 ===
+[stage 2] epoch 1: loss=0.316 len2_acc=0.921
+[stage 2] epoch 2: loss=0.114 len2_acc=0.963
+[stage 2] 毕业 @ epoch 2 (acc=0.963)
+
+=== 课程阶段 3 ===
+[stage 3] epoch 1: loss=0.265 len3_acc=0.910
+[stage 3] epoch 2: loss=0.139 len3_acc=0.941
+[stage 3] epoch 3: loss=0.094 len3_acc=0.967
+[stage 3] 毕业 @ epoch 3 (acc=0.967)
+
+=== 课程阶段 4 ===
+[stage 4] epoch 1: loss=0.196 len4_acc=0.949
+[stage 4] epoch 2: loss=0.083 len4_acc=0.961
+[stage 4] 毕业 @ epoch 2 (acc=0.961)
+
+=== 评估 1–8 位 ===
+len 1: answer_acc=0.950 exact_match=0.945
+len 2: answer_acc=0.440 exact_match=0.425
+len 3: answer_acc=0.345 exact_match=0.340
+len 4: answer_acc=0.020 exact_match=0.010
+len 5: answer_acc=0.000 exact_match=0.000
+len 6: answer_acc=0.000 exact_match=0.000
+len 7: answer_acc=0.000 exact_match=0.000
+len 8: answer_acc=0.000 exact_match=0.000
+
+图已保存到 outputs/

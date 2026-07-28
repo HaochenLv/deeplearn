@@ -1,0 +1,73 @@
+
+=== 课程阶段 1 ===
+[stage 1] epoch 1: loss=0.551 token_acc=0.974 em_acc=0.312
+[stage 1] epoch 2: loss=0.046 token_acc=0.994 em_acc=0.531
+[stage 1] epoch 3: loss=0.016 token_acc=0.999 em_acc=0.562
+[stage 1] epoch 4: loss=0.008 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 5: loss=0.001 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 6: loss=0.001 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 7: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 8: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 9: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 10: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 11: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 12: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 13: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 14: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 15: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 16: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 17: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 18: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 19: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 20: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 21: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 22: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 23: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 24: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 25: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 26: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 27: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 28: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 29: loss=0.000 token_acc=1.000 em_acc=0.562
+[stage 1] epoch 30: loss=0.000 token_acc=1.000 em_acc=0.562
+
+=== 课程阶段 2 ===
+[stage 2] epoch 1: loss=0.248 token_acc=0.964 em_acc=0.062
+[stage 2] epoch 2: loss=0.048 token_acc=0.984 em_acc=0.406
+[stage 2] epoch 3: loss=0.029 token_acc=0.985 em_acc=0.438
+[stage 2] epoch 4: loss=0.024 token_acc=0.986 em_acc=0.500
+[stage 2] epoch 5: loss=0.017 token_acc=0.991 em_acc=0.594
+[stage 2] epoch 6: loss=0.011 token_acc=0.995 em_acc=0.812
+[stage 2] epoch 7: loss=0.007 token_acc=0.994 em_acc=0.719
+[stage 2] epoch 8: loss=0.008 token_acc=0.984 em_acc=0.406
+[stage 2] epoch 9: loss=0.007 token_acc=0.997 em_acc=0.875
+[stage 2] epoch 10: loss=0.003 token_acc=0.997 em_acc=0.875
+[stage 2] epoch 11: loss=0.003 token_acc=0.999 em_acc=0.969
+[stage 2] 毕业 @ epoch 11 (em_acc=0.969)
+
+=== 课程阶段 3 ===
+[stage 3] epoch 1: loss=0.099 token_acc=0.986 em_acc=0.438
+[stage 3] epoch 2: loss=0.030 token_acc=0.994 em_acc=0.688
+[stage 3] epoch 3: loss=0.017 token_acc=0.999 em_acc=0.906
+[stage 3] 毕业 @ epoch 3 (em_acc=0.906)
+
+=== 课程阶段 4 ===
+[stage 4] epoch 1: loss=0.062 token_acc=0.991 em_acc=0.406
+[stage 4] epoch 2: loss=0.019 token_acc=0.997 em_acc=0.719
+[stage 4] epoch 3: loss=0.014 token_acc=0.992 em_acc=0.500
+[stage 4] epoch 4: loss=0.010 token_acc=0.993 em_acc=0.594
+[stage 4] epoch 5: loss=0.009 token_acc=0.998 em_acc=0.875
+[stage 4] epoch 6: loss=0.006 token_acc=1.000 em_acc=0.969
+[stage 4] 毕业 @ epoch 6 (em_acc=0.969)
+
+=== 评估 1–8 位 ===
+len 1: answer_acc=0.610 exact_match=0.610
+len 2: answer_acc=0.995 exact_match=0.995
+len 3: answer_acc=0.705 exact_match=0.705
+len 4: answer_acc=0.960 exact_match=0.960
+len 5: answer_acc=0.000 exact_match=0.000
+len 6: answer_acc=0.000 exact_match=0.000
+len 7: answer_acc=0.000 exact_match=0.000
+len 8: answer_acc=0.000 exact_match=0.000
+
+图已保存到 outputs/

@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 生成的训练数据 / checkpoint / 产出图
+data/
+checkpoints/
+*.pt
+*.png
+
+# 记忆与会话缓冲（不入库）
+.remember/
